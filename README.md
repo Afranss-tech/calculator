@@ -1,10 +1,10 @@
-# Calculator Project
+ Calculator Project
 
 A fully functional calculator built with HTML, CSS, and JavaScript.
 
-## Features
+ Features
 - Basic arithmetic operations
 - Input validation
 - Keyboard support
 
-## Developed by afranss
+ Developed by Afranss
